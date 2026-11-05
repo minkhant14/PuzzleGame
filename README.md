@@ -16,4 +16,4 @@ Open "index.html" in your web browser to play the game.
 
 Author
 
-minkhant14
+Mg Min Khant
